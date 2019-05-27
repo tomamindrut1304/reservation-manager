@@ -6,3 +6,8 @@ Feel free to contribute in any way by opening Pull Requests with any new feature
 
 #Happy Coding!
 
+#LICENSE
+The license document is in the /documentation/LICENSE.txt.
+You can find the authors in /documentation/AUTHORS.txt
+
+
